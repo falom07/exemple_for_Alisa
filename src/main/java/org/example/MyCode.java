@@ -3,7 +3,7 @@ package org.example;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Mains {
+public class MyCode {
     public static void main(String[] args) {
         int attempts = 3;
 

@@ -1,9 +1,8 @@
 package org.example;
-import java.util.Random;
 import java.util.Scanner;
 import java.lang.Math;
 //Make a game in which you need to count an integer that the computer "guessed" in the range from 0 to 10
-public class Main {
+public class YourCode {
     public static void main(String[] args) {
         int  playir, attempts = 0;
         Scanner input = new Scanner(System.in);
